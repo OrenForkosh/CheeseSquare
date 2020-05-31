@@ -1,0 +1,4 @@
+this text file goal is to keep its directory populated since empty folders are not pushed to the GIT repository.
+DO NOT REMOVE WITHOUT UNDERSTANDING THE CONSEQUENCES...
+
+(the 'Res' folder existence is mandatory for the good execution of the tracking process because the segments' files created are saved there)

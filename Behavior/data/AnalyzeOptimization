@@ -1,0 +1,6 @@
+#!/bin/tcsh
+
+foreach i (`ls log/SocialOptimize*.o*`)
+	 gawk '{ if ($1=="@arg" || $1=="@res") { $1="";  printf($0); }  }' $i | sed 's/[^ \t]*=//g' | gawk '{ if (NF==23) print; }'
+end
+
