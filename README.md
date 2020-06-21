@@ -19,8 +19,8 @@ The package is divided into these components:
 
 - [Preprocessing](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Preprocessing). The code needed to prepare the video files for tracking. This process involves marking the bounds of the arena, automatically detecting dark/light transition, and marking the animals (open the 'Preprocessing' folder for more information)
 - [Tracking](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Tracking). Used to track the position of the mice based on their colors.
-- Behavior](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Behavior). Using the tracked trajectories to infer behaviors such as chases, exploration, and more.
-- [[Personality](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Personality). Extracting traits that underly behavior which: (1) capture and represent a continuous gradient of differences between individuals of the same species and (2) tend to be stable for individuals over time.
+- [Behavior](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Behavior). Using the tracked trajectories to infer behaviors such as chases, exploration, and more.
+- [Personality](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Personality). Extracting traits that underly behavior which: (1) capture and represent a continuous gradient of differences between individuals of the same species and (2) tend to be stable for individuals over time.
 
 In addition, we provide the design of the social arenas in the [Arena](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Arena) section.
 
