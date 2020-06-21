@@ -6,7 +6,7 @@ In our experiments, we used groups of four mice, that were marked with dyes of f
 
 
 
-<img src="https://github.com/AnonyMouseNeuro/CheeseSquare/raw/master/images/arena%20schematics.png" style="zoom:25%;" />
+<img src="https://github.com/AnonyMouseNeuro/CheeseSquare/raw/master/images/arena%20schematics.png" style="width:135;" />
 
 
 
