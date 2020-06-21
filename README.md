@@ -4,11 +4,9 @@ We present here all the source-code and hardware design needed to track position
 
 In our experiments, we used groups of four mice, that were marked with dyes of four different colors for identification purposes. The mice were housed in an enriched semi-naturalistic environment (see design [here](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Arena)) where they could move and interact freely over multiple days. Each arena contained a closed nest, two feeders, two water bottles, two ramps, an open shelter, and an S-shaped separation wall in the center. 
 
-
-
-<img src="https://github.com/AnonyMouseNeuro/CheeseSquare/raw/master/images/arena%20schematics.png" style="width:135;" />
-
-
+<p align="center">
+<img src="https://github.com/AnonyMouseNeuro/CheeseSquare/raw/master/images/arena%20schematics.png" width="33%" />
+</p>
 
 All of the mice movements were automatically tracked and their behavior analyzed. With beahvioral readouts consisting of both individual (for example, locomotion, exploration and foraging patterns) and social (for example, approaches, contacts and chases). A total of 60 features per mouse per 12-h active phase were collected. For mice, the active phase is the dark time, so we used color light-sensitive cameras. In our case we used Sony's IMX174 sensor mounted on a [MANTA G-235](https://www.alliedvision.com/en/products/cameras/detail/Manta/G-235.html) by Allied Vision (although similar cameras are also available by Basler, Flir, and others).
 
