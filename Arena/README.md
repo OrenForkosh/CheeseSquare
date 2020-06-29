@@ -10,6 +10,7 @@ The equipment we have used to build the social arenas includes:
 
 
 <center>
-  <img src="https://github.com/ForkoshLab/CheeseSquare/raw/master/images/arena.png" alt="drawing" width="70%"/>
+  <img src="https://github.com/AnonyMouseNeuro/CheeseSquare/raw/master/images/arena.png" alt="drawing" width="70%"/>
 </center>
+
 
