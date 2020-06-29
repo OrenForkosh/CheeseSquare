@@ -2,6 +2,8 @@
 
 We present here all the source-code and hardware design needed to track position, behavior, and perosnalities of mice (as well as other animals). 
 
+This code provides tools for infering personality traits from behavior. While personality traits offer considerable insight into the biological basis of individual differences, existing approaches toward understanding personality across species rely on subjective criteria and limited sets of behavioral readouts, resulting in noisy and often inconsistent outcomes. In a recent paper, we introduced a mathematical framework for studying individual differences along dimensions with maximum consistency and discriminative power. This framework was validated in mice, using data from a system for high-throughput longitudinal monitoring of group-housed male mice that yields a variety of readouts from all across an individual’s behavioral repertoire. The code is implemented in Matlab.
+
 In our experiments, we used groups of four mice, that were marked with dyes of four different colors for identification purposes. The mice were housed in an enriched semi-naturalistic environment (see design [here](https://github.com/AnonyMouseNeuro/CheeseSquare/tree/master/Arena)) where they could move and interact freely over multiple days. Each arena contained a closed nest, two feeders, two water bottles, two ramps, an open shelter, and an S-shaped separation wall in the center. 
 
 <p align="center">
